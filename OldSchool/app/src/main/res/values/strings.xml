@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OldSchool</string>
+    <string name="addRapperButtonText">ADD RAPPER</string>
+    <string name="guessRapperButtonText">GUESS RAPPER</string>
+    <string name="rapperTriviaButtonText">RAPPER TRIVIA</string>
+    <string name="addRapperText">ADD RAPPERS</string>
+    <string name="addQuestionsText">ADD QUESTIONS</string>
+    <string name="rapperNameHint">Enter this rapper\'s name</string>
+    <string name="mainActivityTitle">DEAD RAPPERS GAME</string>
+</resources>
